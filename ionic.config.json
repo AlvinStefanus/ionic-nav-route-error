@@ -1,0 +1,7 @@
+{
+  "name": "NavTabsBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
